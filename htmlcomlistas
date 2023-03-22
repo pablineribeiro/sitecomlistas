@@ -1,0 +1,40 @@
+<!doctype html>
+ 
+<!DOCTYPE html>
+<html>
+	
+	<head>
+			<title>Meu Site</title>
+		<meta charset="utf-8">
+	</head>
+	
+	<body>
+		<h2 strong>A empresa</h2 strong>
+		<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		<hr><!--p de paragrafo e hr pula linha-->
+	 <h2>Vantagens de ser Cliente</h2>
+	 <!-- Lista Não ordenada (li): circle, square,disc-->
+	 <!-- Lista ordenada(ol): 1,A,a,I,i-->
+	 <ol type="1">
+	 	<li>Atendimento <strong>rápido</strong></li>
+	 	<li>Preços especiais</li>
+	 	<li>Muitas cidades</li>
+	 </ol>
+	 <hr>
+
+	 <h2>O que os Clientes estão dizendo:</h2>
+	 <em>"Gostei demais do atendimento, foi muito rápido"</em></br>
+	 <strong>Maria Almeida</strong>
+
+	 <hr>
+
+	  <h2>Mapa do Site</h2>
+	 <ul type="square">
+	 	<li>Home</li>
+	 	<li>Quem Somos</li>
+	 	<li>Contatos</li>
+	 </ul>
+
+	 
+	</body>
+</html>
